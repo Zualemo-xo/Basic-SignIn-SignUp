@@ -1,0 +1,44 @@
+
+*{
+  font-family: monospace;
+  font-size: 16px;
+}
+  body{
+    background-image: linear-gradient(to right,#a1c4fd,#c2e9fb,#faaca8);
+  }
+  h1{
+    background-image: linear-gradient(to right,#0052A2,#00264D);
+    padding-top: 20px;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    padding-bottom: 20px;
+  }
+  #Password{
+    opacity: 1;
+  }
+  #remember{
+    margin-bottom:15px;
+  }
+  #submit{
+    background-image: linear-gradient(to right,#B2FEFA,#0ed2f7);
+      padding-left: 35px;
+      padding-right: 35px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+
+  }
+  #form-ele{
+
+      background-image: linear-gradient(to right,#ddd6f3,#faaca8);
+      box-shadow: 2px 2px 4px #000000;
+      opacity:0.9;
+      margin-top: 85px;
+      margin-bottom: 85px;
+      margin-left: 85px;
+      margin-right: 85px;
+      padding-left: 100px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+  }
